@@ -1,3 +1,4 @@
+```
 [root@rhel7 ~(keystone_admin)]# nova hypervisor-list
 +----+---------------------+-------+---------+
 | ID | Hypervisor hostname | State | Status  |
@@ -58,6 +59,6 @@ nova service+----+------------------+-------------------+----------+---------+--
 | free_disk_gb              | 95                                                                                                                                                                                                                                                                            |
 (...)
 
-
+```
 
 
